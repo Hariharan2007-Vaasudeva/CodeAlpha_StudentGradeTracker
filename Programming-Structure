@@ -1,0 +1,8 @@
+StudentGradeTracker/
+│
+├── src/
+│   ├── Student.java
+│   └── StudentGradeTracker.java
+│
+├── README.md
+└── .gitignore
